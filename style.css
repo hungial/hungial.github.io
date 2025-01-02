@@ -15,7 +15,7 @@ body {
   background-position:absolute;
   z-index:10;
   object-fit:cover;
-  overflow-y: hidden
+  overflow-y: hidden;
 }
 
 #lain .content {
