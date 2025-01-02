@@ -1,2 +1,1 @@
-https://hungial.github.io
-homosex
+# https://hungial.github.io
