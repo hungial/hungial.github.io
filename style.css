@@ -1,4 +1,4 @@
-body {margin:0;padding:0}
+html, body {margin:0;padding:0 height: 100% overflow: hidden}
 
 #lain {
   position:relative;
@@ -20,4 +20,15 @@ body {margin:0;padding:0}
   position:absolute;
   top:0;
   left:0;
+  text-align:center;
+
+  display: flex;
+  alight-items: center;
+  justify-content: center;
+}
+
+#lain .content h1 {
+  color:#FFF;
+  font-family:Arial,sans-serif;
+  
 }
