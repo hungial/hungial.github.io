@@ -50,3 +50,9 @@ body {
   color:#FFF;
   font-family:Arial,sans-serif;
 }
+
+#lain .content a {
+  font-size:20px;
+  color:#FFF;
+  font-family:URW Chancery L, cursive;
+}
