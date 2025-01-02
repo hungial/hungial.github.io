@@ -58,25 +58,26 @@ body {
   font-family:Arial,sans-serif;
 }
 
-a:link {
+#lain .content a:link {
   color: green;
   background-color: transparent;
   text-decoration: none;
 }
 
-a:visited {
+#lain .content a:visited {
   color: pink;
   background-color: transparent;
   text-decoration: none;
 }
 
-a:hover {
+#lain .content a:hover {
   color: red;
   background-color: transparent;
   text-decoration: underline;
+  cursor:pointer;
 }
 
-a:active {
+#lain .content a:active {
   color: yellow;
   background-color: transparent;
   text-decoration: underline;
