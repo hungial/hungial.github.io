@@ -59,19 +59,19 @@ body {
 }
 
 #lain .content a:link {
-  color: green;
+  color: Blue;
   background-color: transparent;
   text-decoration: none;
 }
 
 #lain .content a:visited {
-  color: pink;
+  color: Blue;
   background-color: transparent;
   text-decoration: none;
 }
 
 #lain .content a:hover {
-  color: red;
+  color: Pink;
   background-color: transparent;
   text-decoration: underline;
 }
