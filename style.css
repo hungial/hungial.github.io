@@ -3,7 +3,7 @@ body {
   padding:0;
   height: 100%;
   overflow: hidden;
-  cursor: url("cursor.ani"), default;
+  cursor: url("cursor.cur"), default;
 }
 
 #lain {
