@@ -62,7 +62,7 @@ html, body {
   color: blue;
   background-color: transparent;
   text-decoration: none;
-  cursor: url("cursors/link.png"), hover;
+  cursor: url("cursors/link.png"), auto;
 }
 
 #lain .content a:visited {
@@ -75,7 +75,7 @@ html, body {
   color: pink;
   background-color: transparent;
   text-decoration: underline;
-  cursor: url("cursors/link.png"), hover;
+  cursor: url("cursors/link.png"), auto;
 }
 
 #lain .content a:active {
