@@ -62,7 +62,6 @@ html, body {
   color: blue;
   background-color: transparent;
   text-decoration: none;
-  ursor: url("cursors/link.png"), auto;
 }
 
 #lain .content a:visited {
