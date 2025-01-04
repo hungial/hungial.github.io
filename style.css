@@ -62,6 +62,7 @@ html, body {
   color: blue;
   background-color: transparent;
   text-decoration: none;
+  cursor: url(/images/link.png), hover;
 }
 
 #lain .content a:visited {
