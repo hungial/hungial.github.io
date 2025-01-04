@@ -74,6 +74,7 @@ html, body {
   color: pink;
   background-color: transparent;
   text-decoration: underline;
+  cursor: url('arrow.cur'), hover;
 }
 
 #lain .content a:active {
