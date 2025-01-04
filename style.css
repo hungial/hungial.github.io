@@ -74,7 +74,7 @@ html, body {
   color: pink;
   background-color: transparent;
   text-decoration: underline;
-  cursor: url(/images/hover.png), hover;
+  cursor: url(/images/link.png), hover;
 }
 
 #lain .content a:active {
